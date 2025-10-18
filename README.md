@@ -1,0 +1,2 @@
+# Four-Wheeled-Robot-Spawning-Control-Built-and-simulated-differential-drive-robot-in-test-environment
+Developed and simulated a 4-wheeled differential-drive robot in Gazebo Harmonic. Implemented SDF-based modeling for chassis and wheel links, defined revolute joints, and configured the diff_drive plugin for motion control. Tested real-time movement using velocity commands via gz topic to validate forward, rotational, and diagonal motion behavior.
